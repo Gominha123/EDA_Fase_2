@@ -1,0 +1,2 @@
+C:\Users\acer\Documents\Programas C\EDA_Fase_2\Debug\EDA_Fase_2.lib
+C:\Users\acer\Documents\Programas C\EDA_Fase_2\Debug\EDA_Fase_2.pdb

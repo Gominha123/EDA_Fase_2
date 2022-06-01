@@ -1,0 +1,11 @@
+﻿  List.c
+C:\Users\acer\Documents\Programas C\EDA_Fase_2\List.c(138,15): warning C4013: 'existeJob' undefined; assuming extern returning int
+C:\Users\acer\Documents\Programas C\EDA_Fase_2\List.c(152,29): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\acer\Documents\Programas C\EDA_Fase_2\List.c(179,16): warning C4013: 'existeOper' undefined; assuming extern returning int
+C:\Users\acer\Documents\Programas C\EDA_Fase_2\List.c(222,15): warning C4013: 'existeMaq' undefined; assuming extern returning int
+C:\Users\acer\Documents\Programas C\EDA_Fase_2\List.c(244,30): warning C4133: 'function': incompatible types - from 'maqTempo *' to 'operacao *'
+C:\Users\acer\Documents\Programas C\EDA_Fase_2\List.c(244,34): warning C4133: 'function': incompatible types - from 'operacao *' to 'maqTempo *'
+C:\Users\acer\Documents\Programas C\EDA_Fase_2\List.c(326,6): warning C4013: 'free' undefined; assuming extern returning int
+C:\Users\acer\Documents\Programas C\EDA_Fase_2\List.c(616,17): warning C4013: 'mostraMaquina' undefined; assuming extern returning int
+C:\Users\acer\Documents\Programas C\EDA_Fase_2\List.c(105): warning C4716: 'lerFile': must return a value
+  EDA_Fase_2.vcxproj -> C:\Users\acer\Documents\Programas C\EDA_Fase_2\Debug\EDA_Fase_2.lib
